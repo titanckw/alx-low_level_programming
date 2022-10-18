@@ -8,9 +8,13 @@
 
 int main(void)
 {
+	char txt[12] = "_putchar";
+	int i;
+
+
 	for (int i = 0; i < 8; i++)
+
 	{
-		char txt[12] = "_putchar";
 
 		_putchar(txt[i]);
 	}
