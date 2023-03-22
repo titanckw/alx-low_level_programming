@@ -1,6 +1,6 @@
 # Makefiles
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn what are makefiles, when, why and how to use them (with variables, explicit and implicit rules).
+Project done during **Full Stack Software Engineering studies** at **ALX AFRICA**. It aims to learn what are makefiles, when, why and how to use them (with variables, explicit and implicit rules).
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
